@@ -1,0 +1,15 @@
+.page-wrapper{
+    width: 1170px;
+    height: 100vh;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+
+
+  @media (max-width:1169px){
+
+  .page-wrapper{
+    width: 100%;
+  }
+}
